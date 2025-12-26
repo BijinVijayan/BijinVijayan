@@ -1,62 +1,15 @@
-![Header](https://media.licdn.com/dms/image/v2/D5616AQF4owBY2kcbog/profile-displaybackgroundimage-shrink_350_1400/B56ZpT49f1HIAY-/0/1762344033958?e=1768435200&v=beta&t=ib8TT9nTUfS7_QPywQ8zqnhXIqgMm_iRSYmOxLB7EdU)
+Hi, My name is Bijin ev
+=================================================================================================================================
 
-<img src="https://avatars.githubusercontent.com/u/89206464?v=4" width="100" height="100" style="border-radius: 50%;" alt="Profile" />
+Full-Stack Developer
+--------------------
 
-# Hi there, I'm Bijin EV 👋
-### Software Engineer
+I'm a Frontend / Full-Stack Developer with 2.5+ years of experience delivering high-performance web applications using Next.js, React, and Angular. I specialize in creating fast, accessible, and visually polished interfaces that solve real business problems.
 
-## ⚡ About Me
+* 🌍  I'm based in Dubai
+* 🖥️  See my portfolio at [My Portfolio](http://bijin-portfolio.vercel.app/)
+* ✉️  You can contact me at [bijinev.dev@gmail.com](mailto:bijinev.dev@gmail.com)
+* 💬  Yes i'm Batman 😉
 
-🚀 Software Engineer | Frontend & Full-Stack Specialist. Focused on building high-performance web solutions with Next.js, Angular, and the MERN/MEAN stack.
-
-🔭 I'm currently working on **Building  a full Stack Restaurant SaaS application using nextjs 16**
-👯 I'm looking to collaborate on **Open Source Projects, Freelance, Fulltime**
-
-## 🛠 Tech Stack
-
-**Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angularjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-000000?style=for-the-badge&logo=materialui&logoColor=white)
-
-**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodejs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Tools:** ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=vscode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vitejs&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=bash&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=white)
-
-## 📌 Top Repositories
-
-### [BijinVijayan](https://github.com/BijinVijayan/BijinVijayan)
-funda
-⭐ 0 | 🍴 0 | Unknown
-
-### [food-store](https://github.com/BijinVijayan/food-store)
-⭐ 0 | 🍴 0 | TypeScript
-
-### [food-booking-web](https://github.com/BijinVijayan/food-booking-web)
-⭐ 0 | 🍴 0 | TypeScript
-
-### [rentify-web-app](https://github.com/BijinVijayan/rentify-web-app)
-A web application for booking and listing real estate properties for renting and sale
-⭐ 0 | 🍴 0 | TypeScript
-
-### [dev-events](https://github.com/BijinVijayan/dev-events)
-⭐ 0 | 🍴 0 | TypeScript
-
-### [fast-food-app](https://github.com/BijinVijayan/fast-food-app)
-A food ordering app using reactive native, styled using nativewind
-⭐ 0 | 🍴 0 | TypeScript
-
-### [movie_app](https://github.com/BijinVijayan/movie_app)
-⭐ 0 | 🍴 0 | TypeScript
-
-### [dashboard2022](https://github.com/BijinVijayan/dashboard2022)
-⭐ 0 | 🍴 0 | TypeScript
-
-### [weatherappangular](https://github.com/BijinVijayan/weatherappangular)
-⭐ 0 | 🍴 0 | TypeScript
-
-### [randomusergenerate](https://github.com/BijinVijayan/randomusergenerate)
-⭐ 0 | 🍴 0 | TypeScript
-
-## 🔗 Connect with me
-
-
----
-📫 Reach me at: **bijinev.dev@gmail.com**
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" alt="Appwrite" title="Appwrite" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" alt="Squarespace" title="Squarespace" width="36" height="36" /></a><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
